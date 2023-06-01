@@ -1,12 +1,14 @@
 # ManagerCompanyReact
 
+<br>
+Ссылка еа приложкение https://igorgap.github.io/InfoProjectTest/
+<br>
 Для запуска в браузере необходимо:
 
 Открыть терминал
 
 Необходимо скачать зависимости командой
 - npm install
-Ссылка еа приложкение https://igorgap.github.io/InfoProjectTest/
 Запустить командой 
 - npm start
 На сайте можно выбрать "Мои Компании" или  "Мои Менеджеры"
