@@ -1,8 +1,6 @@
 # ManagerCompanyReact
 
 <br>
-Ссылка на приложкение https://igorgap.github.io/InfoProjectTest/
-<br>
 Для запуска в браузере необходимо:
 
 Открыть терминал
